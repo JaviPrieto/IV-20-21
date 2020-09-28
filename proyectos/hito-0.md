@@ -36,7 +36,7 @@
 | PELEGRINA PELEGRINA, JOSE MIGUEL| | |
 | PEREZ MENDEZ, PABLO| | |
 | PINEDA MUÑOZ, JUAN CARLOS| | |
-| PRIETO INFANTE, JAVIER| | |
+| PRIETO INFANTE, JAVIER|[PeluqueriaUnisex](https://github.com/JaviPrieto/PeluqueriaUnisex) | v0.0.1 |
 | REVELLES PEREZ, ANTONIO JOSE| | |
 | RIVERA PEÑA, JUAN ALBERTO| | |
 | RODRIGUEZ LOPEZ, ALEJANDRO|[HDN.PG](https://github.com/alexrodriguezlop/HDN.PG)  |*v0.0.1* |
